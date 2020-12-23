@@ -46,7 +46,6 @@ export default {
         this.reqCateList();
         setTimeout(() => {
             this.rightList = this.list[0].children;
-            
         })
     }
 }
